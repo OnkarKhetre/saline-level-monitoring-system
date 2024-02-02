@@ -1,3 +1,5 @@
+This project is in process to be patented
+
 (We used AWS service like AWS IOT for this project)
 
 Complete tutorial video for setup and working of project:
